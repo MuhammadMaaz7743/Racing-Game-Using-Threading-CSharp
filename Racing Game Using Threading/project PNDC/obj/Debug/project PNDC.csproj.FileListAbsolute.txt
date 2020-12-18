@@ -1,0 +1,78 @@
+c:\users\waheed-pc\documents\visual studio 2013\Projects\project PNDC\project PNDC\bin\Debug\project PNDC.exe.config
+c:\users\waheed-pc\documents\visual studio 2013\Projects\project PNDC\project PNDC\bin\Debug\project PNDC.exe
+c:\users\waheed-pc\documents\visual studio 2013\Projects\project PNDC\project PNDC\bin\Debug\project PNDC.pdb
+c:\users\waheed-pc\documents\visual studio 2013\Projects\project PNDC\project PNDC\obj\Debug\project PNDC.csprojResolveAssemblyReference.cache
+c:\users\waheed-pc\documents\visual studio 2013\Projects\project PNDC\project PNDC\obj\Debug\project_PNDC.Form1.resources
+c:\users\waheed-pc\documents\visual studio 2013\Projects\project PNDC\project PNDC\obj\Debug\project_PNDC.Properties.Resources.resources
+c:\users\waheed-pc\documents\visual studio 2013\Projects\project PNDC\project PNDC\obj\Debug\project PNDC.csproj.GenerateResource.Cache
+c:\users\waheed-pc\documents\visual studio 2013\Projects\project PNDC\project PNDC\obj\Debug\project PNDC.exe
+c:\users\waheed-pc\documents\visual studio 2013\Projects\project PNDC\project PNDC\obj\Debug\project PNDC.pdb
+c:\users\waheed-pc\documents\visual studio 2013\Projects\project PNDC\project PNDC\obj\Debug\project_PNDC.game1.resources
+c:\users\waheed-pc\documents\visual studio 2013\Projects\project PNDC\project PNDC\obj\Debug\project_PNDC.game2.resources
+C:\Users\Wali\Downloads\project PNDC\project PNDC\project PNDC\bin\Debug\project PNDC.exe.config
+C:\Users\Wali\Downloads\project PNDC\project PNDC\project PNDC\bin\Debug\project PNDC.exe
+C:\Users\Wali\Downloads\project PNDC\project PNDC\project PNDC\bin\Debug\project PNDC.pdb
+C:\Users\Wali\Downloads\project PNDC\project PNDC\project PNDC\obj\Debug\project PNDC.csprojAssemblyReference.cache
+C:\Users\Wali\Downloads\project PNDC\project PNDC\project PNDC\obj\Debug\project_PNDC.Form1.resources
+C:\Users\Wali\Downloads\project PNDC\project PNDC\project PNDC\obj\Debug\project_PNDC.game1.resources
+C:\Users\Wali\Downloads\project PNDC\project PNDC\project PNDC\obj\Debug\project_PNDC.game2.resources
+C:\Users\Wali\Downloads\project PNDC\project PNDC\project PNDC\obj\Debug\project_PNDC.Properties.Resources.resources
+C:\Users\Wali\Downloads\project PNDC\project PNDC\project PNDC\obj\Debug\project PNDC.csproj.GenerateResource.cache
+C:\Users\Wali\Downloads\project PNDC\project PNDC\project PNDC\obj\Debug\project PNDC.csproj.CoreCompileInputs.cache
+C:\Users\Wali\Downloads\project PNDC\project PNDC\project PNDC\obj\Debug\project PNDC.exe
+C:\Users\Wali\Downloads\project PNDC\project PNDC\project PNDC\obj\Debug\project PNDC.pdb
+C:\Users\waheed-pc\Pictures\project PNDC\project PNDC\project PNDC\bin\Debug\project PNDC.exe.config
+C:\Users\waheed-pc\Pictures\project PNDC\project PNDC\project PNDC\obj\Debug\project PNDC.exe
+C:\Users\waheed-pc\Pictures\project PNDC\project PNDC\project PNDC\obj\Debug\project PNDC.pdb
+C:\Users\waheed-pc\Pictures\project PNDC\project PNDC\project PNDC\bin\Debug\project PNDC.exe
+C:\Users\waheed-pc\Pictures\project PNDC\project PNDC\project PNDC\bin\Debug\project PNDC.pdb
+C:\Users\waheed-pc\Pictures\project PNDC\project PNDC\project PNDC\obj\Debug\project_PNDC.Form1.resources
+C:\Users\waheed-pc\Pictures\project PNDC\project PNDC\project PNDC\obj\Debug\project_PNDC.game1.resources
+C:\Users\waheed-pc\Pictures\project PNDC\project PNDC\project PNDC\obj\Debug\project_PNDC.game2.resources
+C:\Users\waheed-pc\Pictures\project PNDC\project PNDC\project PNDC\obj\Debug\project_PNDC.Properties.Resources.resources
+C:\Users\waheed-pc\Pictures\project PNDC\project PNDC\project PNDC\obj\Debug\project PNDC.csproj.GenerateResource.Cache
+C:\Users\Obaidullah Shah\Music\project PNDC\project PNDC\project PNDC\bin\Debug\project PNDC.exe.config
+C:\Users\Obaidullah Shah\Music\project PNDC\project PNDC\project PNDC\bin\Debug\project PNDC.exe
+C:\Users\Obaidullah Shah\Music\project PNDC\project PNDC\project PNDC\bin\Debug\project PNDC.pdb
+C:\Users\Obaidullah Shah\Music\project PNDC\project PNDC\project PNDC\obj\Debug\project PNDC.csprojAssemblyReference.cache
+C:\Users\Obaidullah Shah\Music\project PNDC\project PNDC\project PNDC\obj\Debug\project_PNDC.Form1.resources
+C:\Users\Obaidullah Shah\Music\project PNDC\project PNDC\project PNDC\obj\Debug\project_PNDC.game1.resources
+C:\Users\Obaidullah Shah\Music\project PNDC\project PNDC\project PNDC\obj\Debug\project_PNDC.game2.resources
+C:\Users\Obaidullah Shah\Music\project PNDC\project PNDC\project PNDC\obj\Debug\project_PNDC.Properties.Resources.resources
+C:\Users\Obaidullah Shah\Music\project PNDC\project PNDC\project PNDC\obj\Debug\project PNDC.csproj.GenerateResource.cache
+C:\Users\Obaidullah Shah\Music\project PNDC\project PNDC\project PNDC\obj\Debug\project PNDC.csproj.CoreCompileInputs.cache
+C:\Users\Obaidullah Shah\Music\project PNDC\project PNDC\project PNDC\obj\Debug\project PNDC.exe
+C:\Users\Obaidullah Shah\Music\project PNDC\project PNDC\project PNDC\obj\Debug\project PNDC.pdb
+C:\Users\waheed-pc\Videos\project PNDC\project PNDC\bin\Debug\project PNDC.exe.config
+C:\Users\waheed-pc\Videos\project PNDC\project PNDC\obj\Debug\project PNDC.exe
+C:\Users\waheed-pc\Videos\project PNDC\project PNDC\obj\Debug\project PNDC.pdb
+C:\Users\waheed-pc\Videos\project PNDC\project PNDC\bin\Debug\project PNDC.exe
+C:\Users\waheed-pc\Videos\project PNDC\project PNDC\bin\Debug\project PNDC.pdb
+C:\Users\waheed-pc\Videos\project PNDC\project PNDC\obj\Debug\project PNDC.csprojResolveAssemblyReference.cache
+C:\Users\waheed-pc\Videos\project PNDC\project PNDC\obj\Debug\project_PNDC.Form1.resources
+C:\Users\waheed-pc\Videos\project PNDC\project PNDC\obj\Debug\project_PNDC.game1.resources
+C:\Users\waheed-pc\Videos\project PNDC\project PNDC\obj\Debug\project_PNDC.game2.resources
+C:\Users\waheed-pc\Videos\project PNDC\project PNDC\obj\Debug\project_PNDC.Properties.Resources.resources
+C:\Users\waheed-pc\Videos\project PNDC\project PNDC\obj\Debug\project PNDC.csproj.GenerateResource.Cache
+C:\Users\Muhammad Maaz\Desktop\P&DC\Project\project PNDC\project PNDC\bin\Debug\project PNDC.exe.config
+C:\Users\Muhammad Maaz\Desktop\P&DC\Project\project PNDC\project PNDC\obj\Debug\project PNDC.exe
+C:\Users\Muhammad Maaz\Desktop\P&DC\Project\project PNDC\project PNDC\obj\Debug\project PNDC.pdb
+C:\Users\Muhammad Maaz\Desktop\P&DC\Project\project PNDC\project PNDC\bin\Debug\project PNDC.exe
+C:\Users\Muhammad Maaz\Desktop\P&DC\Project\project PNDC\project PNDC\bin\Debug\project PNDC.pdb
+C:\Users\Muhammad Maaz\Desktop\P&DC\Project\project PNDC\project PNDC\obj\Debug\project PNDC.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Maaz\Desktop\P&DC\Project\project PNDC\project PNDC\obj\Debug\project_PNDC.Form1.resources
+C:\Users\Muhammad Maaz\Desktop\P&DC\Project\project PNDC\project PNDC\obj\Debug\project_PNDC.game1.resources
+C:\Users\Muhammad Maaz\Desktop\P&DC\Project\project PNDC\project PNDC\obj\Debug\project_PNDC.game2.resources
+C:\Users\Muhammad Maaz\Desktop\P&DC\Project\project PNDC\project PNDC\obj\Debug\project_PNDC.Properties.Resources.resources
+C:\Users\Muhammad Maaz\Desktop\P&DC\Project\project PNDC\project PNDC\obj\Debug\project PNDC.csproj.GenerateResource.Cache
+D:\All Work's\P&DC\Project\project PNDC\project PNDC\bin\Debug\project PNDC.exe.config
+D:\All Work's\P&DC\Project\project PNDC\project PNDC\obj\Debug\project PNDC.exe
+D:\All Work's\P&DC\Project\project PNDC\project PNDC\obj\Debug\project PNDC.pdb
+D:\All Work's\P&DC\Project\project PNDC\project PNDC\bin\Debug\project PNDC.exe
+D:\All Work's\P&DC\Project\project PNDC\project PNDC\bin\Debug\project PNDC.pdb
+D:\All Work's\P&DC\Project\project PNDC\project PNDC\obj\Debug\project PNDC.csprojResolveAssemblyReference.cache
+D:\All Work's\P&DC\Project\project PNDC\project PNDC\obj\Debug\project_PNDC.Form1.resources
+D:\All Work's\P&DC\Project\project PNDC\project PNDC\obj\Debug\project_PNDC.game1.resources
+D:\All Work's\P&DC\Project\project PNDC\project PNDC\obj\Debug\project_PNDC.game2.resources
+D:\All Work's\P&DC\Project\project PNDC\project PNDC\obj\Debug\project_PNDC.Properties.Resources.resources
+D:\All Work's\P&DC\Project\project PNDC\project PNDC\obj\Debug\project PNDC.csproj.GenerateResource.Cache
